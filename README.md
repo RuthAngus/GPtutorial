@@ -22,5 +22,8 @@ http://dfm.io/gp.js/
 My paper on using GPs to measure rotation periods:
 https://arxiv.org/abs/1706.05459
 
+With code here:
+https://github.com/RuthAngus/GProtation
+
 Dan Foreman-Mackey's paper on a fast GP implementation:
 https://arxiv.org/abs/1703.09710
