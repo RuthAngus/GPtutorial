@@ -18,3 +18,9 @@ http://celerite.readthedocs.io/en/stable/
 
 Visualising kernels:
 http://dfm.io/gp.js/
+
+My paper on using GPs to measure rotation periods:
+https://arxiv.org/abs/1706.05459
+
+Dan Foreman-Mackey's paper on a fast GP implementation:
+https://arxiv.org/abs/1703.09710
